@@ -12,7 +12,7 @@ This is a **React-based front-end brand page** for showcasing Nike shoes. The pa
 
 ## 📸 Preview
 
-![Hero Section Preview](./public/images/shoe_image.png)
+![Hero Section Preview](./screenshots/brand-page.png)
 
 ## 🛠️ Tech Stack
 
